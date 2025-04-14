@@ -15,17 +15,10 @@
 
 📚 Always learning | Open to **internships**, **freelance projects**, and **collaboration**  
 
-![ML GIF](https://media.giphy.com/media/l0MYt5jPR6QpR7tCw/giphy.gif)
-
 ### Connect with me:
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)  
-![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)
-
-### 🎨 Featured Projects:
-
-- [**Project 1**](https://github.com/your-project-1)
-- [**Project 2**](https://github.com/your-project-2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-ahmed-zakaria/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github)](https://github.com/mohzakaria)
 
 ---
 
