@@ -1,4 +1,4 @@
-# 👨‍💻 Computer Engineering Student | Fullstack Developer | ML Enthusiast
+# 👨‍💻 Computer Engineer | Fullstack Developer | ML Enthusiast
 
 🚀 **Passionate about building scalable and interactive web applications**
 
